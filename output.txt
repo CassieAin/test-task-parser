@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE offers SYSTEM "roles.dtd">
+<offers>
+    <name>Cap</name>
+    <brand>ONLY</brand>
+    <color>Unifarben</color>
+    <number>Design Unifarben Extras Glitzernd Artikel-Nr: 5713618544952</number>
+    <delievery>Kauf auf Rechnung Kostenloser Versand &amp; Rückversand 100 Tage Rückgaberecht 2-4 Werktage Lieferzeit</delievery>
+    <finalPrice>11,69€</finalPrice>
+</offers>
